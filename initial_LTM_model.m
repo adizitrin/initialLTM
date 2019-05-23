@@ -2,12 +2,11 @@ function initial_LTM_model(member_catalog_file)
 
 %This function is creating a so-called light-trcaes-mass mass model
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Written originally by Adi Zitrin and Tom Broadhurst (Zitrin et al., 2009, MNRAS, 396, 1985)
-%Updated significantly since. Last updated: May 2019.
-%Suggested and implemented improvements by other contributors is highly
-%appreciated especially Matthias Bartelmann, Gregor Seidel, Irene Sendra, Keiichi Umetsu
-%and much advice from CLASH, Hubble Frontier Fields, and RELICS collaborators.
-
+%Written originally by Adi Zitrin and Tom Broadhurst (Zitrin et al., 2009, MNRAS, 396, 1985). 
+%Updated significantly since by Adi Zitrin and colleagues. Last updated: May 2019. 
+%Suggested and implemented improvements by other contributors is highly 
+%appreciated especially Matthias Bartelmann, Gregor Seidel, Irene Sendra, Keiichi Umetsu 
+%and various collaborators from the CLASH, Hubble Frontier Fields, and RELICS programs.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Parameters to be defined by User:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
