@@ -8,7 +8,7 @@ sufficiently well so that some multiple images could be found (iteratively) usin
 The *.jpg images shown in this library show the critical curves for the 12 clusters
 with some (not all) multiple images marked on each figure as well, to show that the critical curves 
 delineate well the expected symmetry, in most cases. 
-The files used to generate these are given in the "IndividualLibraries" directory.
+The files used to generate these are given in the "OtherClusterBlindLTM.zip" / "IndividualLibraries" directory.
 
 We conlcude that evidently, the simply LTM formalism works well in predciting the 
 approximate location of the critical curves, and hence can be used to locate multiple images.
